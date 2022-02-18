@@ -40,7 +40,7 @@
 
 ## About the prototype
 
-![Prototype Home Page](src/images/screenshot.png)
+![Prototype Home Page](src/assets/screenshot.png)
 
 This web shop prototype was built in collaboration with team Gegenwind as part of Inside StartUp course at HBKsaar. The prototype aims to develop a web shop that will introduce you to individual cycling shoes that are tailor-made and sustainable for all bike paths you will climb. You will also find out more about different shoe features, user registration and people behind the project here.
 
@@ -101,9 +101,9 @@ The images and content used in this prototype were meant for educational purpose
 
 ## Contact
 
-Sabbir - [s8srahme@stud.uni-saarland.de](s8srahme@stud.uni-saarland.de)
+Sabbir - s8srahme@stud.uni-saarland.de
 <br />
-Lukas - [lukas@gegenwind.net](lukas@gegenwind.net)
+Lukas - lukas@gegenwind.net
 
 Project Link: [https://gegenwind2022.github.io/gegenwind/](https://gegenwind2022.github.io/gegenwind/)
 
@@ -113,6 +113,6 @@ Project Link: [https://gegenwind2022.github.io/gegenwind/](https://gegenwind2022
 
 ## Acknowledgments
 
-Special thanks to [Hannes Kaefer](h.kaefer@hbksaar.de) for the guidance and feedback.
+Special thanks to Hannes Kaefer (h.kaefer@hbksaar.de) for the guidance and feedback.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
