@@ -105,7 +105,7 @@ Sabbir - [s8srahme@stud.uni-saarland.de](s8srahme@stud.uni-saarland.de)
 <br />
 Lukas - [lukas@gegenwind.net](lukas@gegenwind.net)
 
-Project Link: [https://github.com/](https://github.com/)
+Project Link: [https://gegenwind2022.github.io/gegenwind/](https://gegenwind2022.github.io/gegenwind/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
