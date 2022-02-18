@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/">
+  <a href="https://gegenwind2022.github.io/gegenwind/">
     <img src="src/assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -13,7 +13,7 @@
     A prototype of Gegenwind's new web shop to jumpstart the application development.
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://gegenwind2022.github.io/gegenwind/">View Demo</a>
   </p>
 </div>
 
@@ -40,7 +40,7 @@
 
 ## About the prototype
 
-[![Prototype Name Screen Shot][product-screenshot]](https://github.com)
+![Prototype Home Page](src/images/screenshot.png)
 
 This web shop prototype was built in collaboration with team Gegenwind as part of Inside StartUp course at HBKsaar. The prototype aims to develop a web shop that will introduce you to individual cycling shoes that are tailor-made and sustainable for all bike paths you will climb. You will also find out more about different shoe features, user registration and people behind the project here.
 
@@ -102,6 +102,7 @@ The images and content used in this prototype were meant for educational purpose
 ## Contact
 
 Sabbir - [s8srahme@stud.uni-saarland.de](s8srahme@stud.uni-saarland.de)
+<br />
 Lukas - [lukas@gegenwind.net](lukas@gegenwind.net)
 
 Project Link: [https://github.com/](https://github.com/)
@@ -112,12 +113,6 @@ Project Link: [https://github.com/](https://github.com/)
 
 ## Acknowledgments
 
-Special thanks to Hannes Kaefer for the guidance and feedback.
-
-- Hannes - [h.kaefer@hbksaar.de](h.kaefer@hbksaar.de)
+Special thanks to [Hannes Kaefer](h.kaefer@hbksaar.de) for the guidance and feedback.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-
-[product-screenshot]: src/images/screenshot.png
