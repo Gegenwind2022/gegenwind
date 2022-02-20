@@ -62,25 +62,20 @@ This section lists all major frameworks, libraries and languages used to bootstr
 
 ## Getting started
 
-To set up this project locally, clone the repository and run using following steps.
+To start the development server, you need to meet the following prerequisites on your system and then perform the installation:
 
 ### Prerequisites
 
-You will need the following packages installed in your system:
-
-- npm / Yarn
+- npm
 - Node.js
+- Git
 
 ### Installation
 
-1. Install NPM packages
-   ```sh
-   npm install
-   ```
-2. Run the app
-   ```sh
-   npm start
-   ```
+```sh
+npm install
+npm start
+```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -104,8 +99,6 @@ The images and content used in this prototype were meant for educational purpose
 Sabbir - s8srahme@stud.uni-saarland.de
 <br />
 Lukas - lukas@gegenwind.net
-
-Project Link: [https://gegenwind2022.github.io/gegenwind/](https://gegenwind2022.github.io/gegenwind/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
