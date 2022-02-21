@@ -10,7 +10,7 @@
   <h3 align="center">Gegenwind Web Shop Prototype</h3>
 
   <p align="center">
-    A prototype of Gegenwind's new web shop to jumpstart the application development.
+    A prototype of Gegenwind's new web shop to jumpstart the future application development.
     <br />
     <br />
     <a href="https://gegenwind2022.github.io/gegenwind/">View Demo</a>
@@ -62,7 +62,7 @@ This section lists all major frameworks, libraries and languages used to bootstr
 
 ## Getting started
 
-To start the development server, you need to meet the following prerequisites on your system and then perform the installation:
+To start the development server, you need to have the following prerequisites on your system before you can perform the installation:
 
 ### Prerequisites
 
@@ -88,7 +88,7 @@ to use, copy, modify, merge and/or publish copies of the Software, and to permit
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-The images and content used in this prototype were meant for educational purposes only.
+**Note: some images and text used in this prototype could be unlicensed and meant for educational purposes only!**
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
